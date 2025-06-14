@@ -130,5 +130,5 @@ Not affiliated with Apna.co.
 ### 🔁 Replace this:
 
 ```markdown
-👉 [Click here to view the hosted project](https://your-live-site-link.netlify.app)
+👉 [Click here to view the hosted project](https://apna-clone-git-main-karthiks-projects-fd7d09c6.vercel.app)
 ````
